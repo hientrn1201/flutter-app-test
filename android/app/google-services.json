@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963921635993",
+    "project_id": "flutter-test-hientrn",
+    "storage_bucket": "flutter-test-hientrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963921635993:android:1df999e56f3d07da3de608",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirOpoydcuc7nRTroiJMxqA3XZZag_80g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
